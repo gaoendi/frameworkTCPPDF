@@ -1,0 +1,8 @@
+{
+    "name": "tcpdf",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+		"tecnickcom/TCPDF": "^6.2"
+    }
+}
